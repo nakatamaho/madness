@@ -1,0 +1,52 @@
+<map id="worldrmi.cc" name="worldrmi.cc">
+<area shape="rect" id="node1" title=" " alt="" coords="2333,5,2432,32"/>
+<area shape="rect" id="node2" href="$worldrmi_8h.html" title="Lowest level API for sending active messages — you should probably be looking at worldam...." alt="" coords="1803,80,1997,107"/>
+<area shape="rect" id="node3" href="$safempi_8h.html" title="Serializes calls to MPI in case it does not support THREAD_MULTIPLE." alt="" coords="1911,155,2102,181"/>
+<area shape="rect" id="node10" href="$timers_8h.html" title="Wrappers around platform dependent timers and performance info." alt="" coords="984,415,1163,442"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2447,326,2527,353"/>
+<area shape="rect" id="node22" title=" " alt="" coords="93,237,171,263"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1865,237,1940,263"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3440,326,3525,353"/>
+<area shape="rect" id="node28" title=" " alt="" coords="161,326,221,353"/>
+<area shape="rect" id="node38" href="$archive_8h.html" title="Interface templates for the archives (serialization)." alt="" coords="2770,155,2955,181"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2524,237,2567,263"/>
+<area shape="rect" id="node48" href="$posixmem_8h.html" title="Implement dummy posix_memalign if it is missing on the system." alt="" coords="3410,80,3617,107"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3692,80,3759,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1187,415,1271,442"/>
+<area shape="rect" id="node24" href="$thread_8h.html" title="Implements Dqueue, Thread, ThreadBase and ThreadPool." alt="" coords="1331,155,1509,181"/>
+<area shape="rect" id="node37" href="$worldtypes_8h.html" title="Defines types used by the parallel runtime." alt="" coords="1097,155,1306,181"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2694,237,2749,263"/>
+<area shape="rect" id="node47" href="$print_8h.html" title="Defines simple templates for printing to std::cout &quot;a la Python&quot;." alt="" coords="2290,155,2457,181"/>
+<area shape="rect" id="node4" href="$madness__config_8h.html" title="Macros and tools pertaining to the configuration of MADNESS." alt="" coords="1768,497,1971,524"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1065,237,1124,263"/>
+<area shape="rect" id="node7" href="$worldmutex_8h.html" title="Implements Mutex, MutexFair, Spinlock, ConditionVariable." alt="" coords="1170,326,1385,353"/>
+<area shape="rect" id="node17" href="$type__traits_8h.html" title=" " alt="" coords="2193,229,2348,271"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2015,237,2081,263"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1960,572,2096,599"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1296,415,1357,442"/>
+<area shape="rect" id="node16" href="$madness__exception_8h.html" title="Defines madness::MadnessException for exception handling." alt="" coords="1756,408,1940,449"/>
+<area shape="rect" id="node11" title=" " alt="" coords="997,497,1064,524"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1428,497,1495,524"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1088,497,1147,524"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1171,497,1261,524"/>
+<area shape="rect" id="node15" title=" " alt="" coords="899,497,973,524"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1714,326,1785,353"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2225,326,2317,353"/>
+<area shape="rect" id="node25" href="$thread__info_8h.html" title="Implements thread introspection." alt="" coords="657,319,823,360"/>
+<area shape="rect" id="node26" href="$dqueue_8h.html" title="Implements DQueue." alt="" coords="1250,237,1435,263"/>
+<area shape="rect" id="node29" href="$function__traits_8h.html" title=" " alt="" coords="1663,229,1841,271"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2106,237,2169,263"/>
+<area shape="rect" id="node31" title=" " alt="" coords="778,237,854,263"/>
+<area shape="rect" id="node32" title=" " alt="" coords="878,237,927,263"/>
+<area shape="rect" id="node33" title=" " alt="" coords="951,237,1041,263"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1460,237,1537,263"/>
+<area shape="rect" id="node35" title=" " alt="" coords="448,237,579,263"/>
+<area shape="rect" id="node36" title=" " alt="" coords="603,237,754,263"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2591,237,2670,263"/>
+<area shape="rect" id="node40" title=" " alt="" coords="3075,237,3144,263"/>
+<area shape="rect" id="node41" title=" " alt="" coords="3168,237,3224,263"/>
+<area shape="rect" id="node42" title=" " alt="" coords="3248,237,3299,263"/>
+<area shape="rect" id="node43" title=" " alt="" coords="3323,237,3365,263"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2976,237,3051,263"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3522,155,3617,181"/>
+</map>
